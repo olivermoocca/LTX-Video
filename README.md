@@ -2,7 +2,7 @@
 
 # LTX-Video
 
-This is the official repository for LTX-Video.
+This is the official repository foor LTX-Video.
 
 [Website](https://www.lightricks.com/ltxv) |
 [Model](https://huggingface.co/Lightricks/LTX-Video) |
